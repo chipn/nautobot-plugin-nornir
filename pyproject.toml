@@ -20,6 +20,7 @@ packages = [
 python = "^3.6"
 nornir-nautobot = "^1.0.0"
 nautobot = "^1.0.0"
+hvac = "^0.10.11"
 
 [tool.poetry.dev-dependencies]
 invoke = "^1.4.1"
